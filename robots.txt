@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zufiros.com/sitemap.xml
+Sitemap: https://www.zufiros.com/sitemap.xml
